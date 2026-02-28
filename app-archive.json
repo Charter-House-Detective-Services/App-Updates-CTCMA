@@ -3,6 +3,20 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.7.1+1",
+      "shortVersion": 271,
+      "date": "2026-02-28",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.7.1+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added Investigator Area of operation in the select investigator screen options whenever adding claim or reassigning claim to an investigator."
+        }
+      ]
+    },
+    {
       "version": "2.7.0+1",
       "shortVersion": 270,
       "date": "2026-02-10",
