@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.8.2+1",
+      "shortVersion": 282,
+      "date": "2026-03-30",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.8.2+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Fixed issue of seeing reassigned cases in Yash Rajput login. Now only cases assigned to Yash Rajput will be visible in his login."
+        },
+        {
+          "type": "fix",
+          "message": "Fixed 422 Error being caused by Vehicle model field in MACT login while adding claim. Now Vehicle model is mandatory field along with iv registration number."
+        }
+      ]
+    },
+    {
       "version": "2.8.1+1",
       "shortVersion": 281,
       "date": "2026-03-20",
