@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.1+1",
+      "shortVersion": 291,
+      "date": "2026-05-11",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.1+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "OD Report Generation is now live in the app. Now OD report can be generated for the claims which are closed with OD report format."
+        },
+        {
+          "type": "feat",
+          "message": "Multiple small fixes and improvements in the app for better user experience and performance."
+        }
+      ]
+    },
+    {
       "version": "2.9.0+1",
       "shortVersion": 290,
       "date": "2026-04-14",
