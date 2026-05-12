@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.2+1",
+      "shortVersion": 292,
+      "date": "2026-05-12",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.2+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Report Generation Feedback and progress snackbar added."
+        },
+        {
+          "type": "feat",
+          "message": "Added report draft saving functionality untill the claim is closed."
+        }
+      ]
+    },
+    {
       "version": "2.9.1+1",
       "shortVersion": 291,
       "date": "2026-05-11",
