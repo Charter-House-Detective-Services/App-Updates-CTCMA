@@ -3,6 +3,32 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.4+1",
+      "shortVersion": 294,
+      "date": "2026-05-13",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.4+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Report Generation form model backbone added, api still pending."
+        },
+        {
+          "type": "feat",
+          "message": "EDA page for Admin Accounts added."
+        },
+        {
+          "type": "fix",
+          "message": "Fixed report progress snackbar naming."
+        },
+        {
+          "type": "fix",
+          "message": "Made EDA page Admin only."
+        }
+      ]
+    },
+    {
       "version": "2.9.3+1",
       "shortVersion": 293,
       "date": "2026-05-12",
