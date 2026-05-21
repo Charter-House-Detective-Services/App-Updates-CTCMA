@@ -3,6 +3,32 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.5+1",
+      "shortVersion": 295,
+      "date": "2026-05-21",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.5+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added Windows notification for report generation progress and completion."
+        },
+        {
+          "type": "feat",
+          "message": "Added a for report statistic and filter on the dashboard for cases with Insured, Driver and Garage done."
+        },
+        {
+          "type": "fix",
+          "message": "Fixed EDA page chart for Case allocation."
+        },
+        {
+          "type": "feat",
+          "message": "Added another column in EDA chart for Investigator current volume."
+        }
+      ]
+    },
+    {
       "version": "2.9.4+1",
       "shortVersion": 294,
       "date": "2026-05-13",
