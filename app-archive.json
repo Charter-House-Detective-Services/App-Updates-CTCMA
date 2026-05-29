@@ -3,6 +3,40 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.6+1",
+      "shortVersion": 296,
+      "date": "2026-05-21",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.6s+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Death report Generation Added."
+        },
+        {
+          "type": "feat",
+          "message": "Part wise report skeleton added."
+        },
+        {
+          "type": "feat",
+          "message": "Fetch closed claims by date added in closed claims and EDA Dashboard."
+        },
+        {
+          "type": "feat",
+          "message": "Max report limit increased to 2."
+        },
+        {
+          "type": "feat",
+          "message": "Pagination added in closed claims."
+        },
+        {
+          "type": "fix",
+          "message": "Vehicle Registration number mapping issue fixed."
+        }
+      ]
+    },
+    {
       "version": "2.9.5+1",
       "shortVersion": 295,
       "date": "2026-05-21",
