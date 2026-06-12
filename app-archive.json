@@ -3,6 +3,40 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.7+1",
+      "shortVersion": 297,
+      "date": "2026-06-12",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.7+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Injury Report Generation Added."
+        },
+        {
+          "type": "feat",
+          "message": "Reports generated count added with enclosure download in the reports page."
+        },
+        {
+          "type": "feat",
+          "message": "Map for health now functional."
+        },
+        {
+          "type": "feat",
+          "message": "Max report limit increased to 2."
+        },
+        {
+          "type": "feat",
+          "message": "Yash login now has options for selecting type of file to upload notably; images/pdfs, audio, video."
+        },
+        {
+          "type": "fix",
+          "message": "Fixes for Yash login."
+        }
+      ]
+    },
+    {
       "version": "2.9.6+1",
       "shortVersion": 296,
       "date": "2026-05-29",
