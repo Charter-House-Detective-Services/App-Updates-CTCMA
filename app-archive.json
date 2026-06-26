@@ -3,6 +3,20 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.9.8+1",
+      "shortVersion": 298,
+      "date": "2026-06-26",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/2.9.8+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Health Claim assign tab true issue fixed."
+        }
+      ]
+    },
+    {
       "version": "2.9.7+1",
       "shortVersion": 297,
       "date": "2026-06-12",
