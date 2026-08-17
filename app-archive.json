@@ -3,6 +3,28 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "3.0.0+1",
+      "shortVersion": 300,
+      "date": "2026-08-17",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/3.0.0+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Uploaded and received files table added to the claim details page."
+        },
+        {
+          "type": "feat",
+          "message": "Check claim number exists now displays the portfolio and open-close status of the claim."
+        },
+        {
+          "type": "feat",
+          "message": "Report generation notification bubble can now be moved around the screen."
+        }
+      ]
+    },
+    {
       "version": "2.9.8+1",
       "shortVersion": 298,
       "date": "2026-06-26",
