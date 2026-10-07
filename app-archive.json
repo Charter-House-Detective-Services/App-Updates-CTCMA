@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "appName": "Ctcma",
+  "appName": "ctcma",
   "items": [
     {
       "version": "3.0.1",
@@ -8,7 +8,7 @@
       "platform": "windows",
       "channel": "stable",
       "mandatory": false,
-      "release": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/releases/stable/3.0.1/build-1/windows/release.json"
+      "release": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/3.0.1/build-1/windows/release.json"
     },
     {
       "version": "3.0.2",
@@ -16,7 +16,7 @@
       "platform": "windows",
       "channel": "stable",
       "mandatory": false,
-      "release": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/releases/stable/3.0.2/build-1/windows/release.json"
+      "release": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/3.0.2/build-1/windows/release.json"
     }
   ],
   "signature": {
