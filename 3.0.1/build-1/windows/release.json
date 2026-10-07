@@ -8,18 +8,18 @@
   "channel": "stable",
   "artifact": {
     "kind": "zip",
-    "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/app-archive.json/releases/stable/3.0.1/build-1/windows/Ctcma-3.0.1-windows.zip",
-    "sha256": "9f49373bfd53f68edc7b021086562f29c31da8e6d91712380c5873f6f3bd289c",
-    "length": 40570889
+    "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/releases/stable/3.0.1/build-1/windows/Ctcma-3.0.1-windows.zip",
+    "sha256": "12e6ea9b667c2e75558260169eea4e8478c5c8b3d2076980a31747c85975779b",
+    "length": 40570794
   },
   "install": {
     "strategy": "wholeDirectoryReplace"
   },
   "signature": {
     "algorithm": "ed25519",
-    "publicKeyId": "release-c57dcc4a46c7c3413edd769e",
-    "value": "itrDnZ/lJ8KUl9EWEE3C0sn89hkqKT1hlEFMJFbImK7wUm/c0arcJszC5NGMdyOpwTC+xTixgJVLAtRgQsKfCQ=="
+    "publicKeyId": "release-d74a618787340f0f55600109",
+    "value": "vS5wHyRNpva2i1vzmdick++ySM9Q1L5u9YVAQ8YC5YeGYVJJJqYbL+/q3Y7HQ85kLax/arhefIhKJiFDzoiGCw=="
   },
   "minimumUpdaterVersion": "2.0.0",
-  "generatedAt": "2026-10-07T07:45:56.386377Z"
+  "generatedAt": "2026-10-07T09:53:19.528525Z"
 }

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "appName": "Ctcma",
+  "items": [
+    {
+      "version": "3.0.1",
+      "buildNumber": 1,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/refs/heads/main/releases/stable/3.0.1/build-1/windows/release.json"
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-d74a618787340f0f55600109",
+    "value": "KOpiJYe3bbdOm0uPIPFvGOTi5yBLbg/jAJJhPtNZks6aeb/j81ekMJbCZvZGuHK9XDpaReXvc9StBlqrgNkbBg=="
+  }
+}
