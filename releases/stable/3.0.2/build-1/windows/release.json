@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "ctcma",
+  "appName": "Ctcma",
+  "version": "3.0.2",
+  "buildNumber": 1,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CTCMA/main/releases/stable/3.0.2/build-1/windows/Ctcma-3.0.2-windows.zip",
+    "sha256": "c6619ad1cc9b47c8e40c517d77ec49a660ed098e51ed6ed10d66d296c2c6e830",
+    "length": 40570808
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-3a9e14b1c5419b520499307b",
+    "value": "LAqpIR+Ns5MlGr22gAOeefDj6yFU48sZ1T1lVjVVoUZMtOMJY0L1yoUoMngntDRyl7QkEbVOGztgUk2trN4eDA=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-10-07T11:43:43.073257Z"
+}
